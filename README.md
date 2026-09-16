@@ -5,3 +5,5 @@ this repository conatain simple program code of python created for class assignm
 in this we have used a used a loop to iterate again and again to get the result 
 
 2. fibonacci series  -  this file contain python code for fibonacci series printing 
+
+3. created a python file to print hello world
